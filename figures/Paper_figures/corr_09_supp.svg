@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="1000"
+   height="500"
+   style=""
+   viewBox="0 0 1000 500"
+   version="1.1"
+   id="svg471"
+   sodipodi:docname="corr_09_supp.svg"
+   inkscape:export-filename="/home/alvaro/github/ICDHyr_analysis/figures/corr_09_supp.png"
+   inkscape:export-xdpi="900"
+   inkscape:export-ydpi="900"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata475">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview473"
+     showgrid="false"
+     inkscape:zoom="1.0436896"
+     inkscape:cx="445.52169"
+     inkscape:cy="284.24881"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g398" />
+  <rect
+     x="0"
+     y="0"
+     width="1000"
+     height="500"
+     style="fill: rgb(0, 0, 0); fill-opacity: 0;"
+     id="rect2" />
+  <defs
+     id="defs-519a06">
+    <g
+       class="clips"
+       id="g34">
+      <clipPath
+         id="clip519a06x9y9plot"
+         class="plotclip">
+        <rect
+           width="55.96363636363636"
+           height="230"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         id="clip519a06x11y11plot"
+         class="plotclip">
+        <rect
+           width="559.6363636363636"
+           height="230"
+           id="rect7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x9">
+        <rect
+           x="80"
+           y="0"
+           width="55.96363636363636"
+           height="500"
+           id="rect10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06y9">
+        <rect
+           x="0"
+           y="100"
+           width="1000"
+           height="230"
+           id="rect13" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x9y9">
+        <rect
+           x="80"
+           y="100"
+           width="55.96363636363636"
+           height="230"
+           id="rect16" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06y11">
+        <rect
+           x="0"
+           y="100"
+           width="1000"
+           height="230"
+           id="rect19" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x9y11">
+        <rect
+           x="80"
+           y="100"
+           width="55.96363636363636"
+           height="230"
+           id="rect22" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x11">
+        <rect
+           x="135.96363636363637"
+           y="0"
+           width="559.6363636363636"
+           height="500"
+           id="rect25" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x11y9">
+        <rect
+           x="135.96363636363637"
+           y="100"
+           width="559.6363636363636"
+           height="230"
+           id="rect28" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip519a06x11y11">
+        <rect
+           x="135.96363636363637"
+           y="100"
+           width="559.6363636363636"
+           height="230"
+           id="rect31" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g47">
+      <linearGradient
+         x1="0"
+         x2="0"
+         y1="1"
+         y2="0"
+         id="g519a06-cb40256f">
+        <stop
+           offset="0%"
+           stop-color="rgb(12, 51, 131)"
+           stop-opacity="1"
+           id="stop36" />
+        <stop
+           offset="25%"
+           stop-color="rgb(10, 136, 186)"
+           stop-opacity="1"
+           id="stop38" />
+        <stop
+           offset="50%"
+           stop-color="rgb(242, 211, 56)"
+           stop-opacity="1"
+           id="stop40" />
+        <stop
+           offset="75%"
+           stop-color="rgb(242, 143, 56)"
+           stop-opacity="1"
+           id="stop42" />
+        <stop
+           offset="100%"
+           stop-color="rgb(217, 30, 30)"
+           stop-opacity="1"
+           id="stop44" />
+      </linearGradient>
+    </g>
+    <g
+       class="patterns"
+       id="g49" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g56">
+    <rect
+       class="bg"
+       x="80"
+       y="100"
+       width="55.96363636363636"
+       height="230"
+       style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0;"
+       id="rect52" />
+    <rect
+       class="bg"
+       x="135.96363636363637"
+       y="100"
+       width="559.6363636363636"
+       height="230"
+       style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0;"
+       id="rect54" />
+  </g>
+  <g
+     class="layer-below"
+     id="g62">
+    <g
+       class="imagelayer"
+       id="g58" />
+    <g
+       class="shapelayer"
+       id="g60" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g398">
+    <g
+       id="g68"
+       class="layer-subplot">
+      <g
+         id="g64"
+         class="shapelayer" />
+      <g
+         id="g66"
+         class="imagelayer" />
+    </g>
+    <g
+       id="g74"
+       class="minor-gridlayer">
+      <g
+         id="g70"
+         class="x9" />
+      <g
+         id="g72"
+         class="y9" />
+    </g>
+    <g
+       id="g80"
+       class="gridlayer">
+      <g
+         id="g76"
+         class="x9" />
+      <g
+         id="g78"
+         class="y9" />
+    </g>
+    <g
+       id="g82"
+       class="zerolinelayer" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       id="path84"
+       class="xlines-below" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       id="path86"
+       class="ylines-below" />
+    <g
+       id="g88"
+       class="overlines-below" />
+    <g
+       id="g90"
+       class="xaxislayer-below" />
+    <g
+       id="g92"
+       class="yaxislayer-below" />
+    <g
+       id="g94"
+       class="overaxes-below" />
+    <g
+       id="g224"
+       clip-path="url(#clip519a06x9y9plot)"
+       transform="translate(80,100)"
+       class="plot"
+       style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="g222"
+         class="scatterlayer mlayer"
+         style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g108"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace7e19b2">
+          <g
+             id="g96"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g98"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g102"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path100"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 55.96,218.5 H 45.81 v -23 h 10.15"
+               class="js-line" />
+          </g>
+          <g
+             id="g104"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g106"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g122"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace0dba03">
+          <g
+             id="g110"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g112"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g116"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path114"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 55.96,34.5 h -8.87 v -23 h 8.87"
+               class="js-line" />
+          </g>
+          <g
+             id="g118"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g120"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g136"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter tracef308f6">
+          <g
+             id="g124"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g126"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g130"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path128"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 55.96,57.5 H 42.52 V 23 h 4.57"
+               class="js-line" />
+          </g>
+          <g
+             id="g132"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g134"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g150"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter traceb09537">
+          <g
+             id="g138"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g140"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g144"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path142"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 55.96,80.5 H 29.33 V 40.25 h 13.19"
+               class="js-line" />
+          </g>
+          <g
+             id="g146"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g148"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g164"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter traced4ecf5">
+          <g
+             id="g152"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g154"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g158"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path156"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 55.96,103.5 H 18.36 V 60.37 h 10.97"
+               class="js-line" />
+          </g>
+          <g
+             id="g160"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g162"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g178"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace305e7e">
+          <g
+             id="g166"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g168"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g172"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path170"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 55.96,149.5 h -8.64 v -23 h 8.64"
+               class="js-line" />
+          </g>
+          <g
+             id="g174"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g176"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g192"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace649139">
+          <g
+             id="g180"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g182"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g186"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path184"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 55.96,172.5 H 45.42 V 138 h 1.9"
+               class="js-line" />
+          </g>
+          <g
+             id="g188"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g190"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g206"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace29f8c1">
+          <g
+             id="g194"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g196"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g200"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path198"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="M 35.61,181.12 H 0 V 81.94 h 18.36"
+               class="js-line" />
+          </g>
+          <g
+             id="g202"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g204"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g220"
+           style="opacity:1;stroke-miterlimit:4;stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-dasharray:none"
+           class="trace scatter trace4521a6">
+          <g
+             id="g208"
+             class="fills"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g210"
+             class="errorbars"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g214"
+             class="lines"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path212"
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#3d9970;stroke-width:20;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 45.81,207 h -10.2 v -51.75 h 9.81"
+               class="js-line" />
+          </g>
+          <g
+             id="g216"
+             class="points"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g218"
+             class="text"
+             style="stroke:#3d9970;stroke-opacity:1;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g226"
+       class="overplot" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path228"
+       style="fill:none"
+       d="M 0,0"
+       class="xlines-above crisp" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path230"
+       style="fill:none"
+       d="M 0,0"
+       class="ylines-above crisp" />
+    <g
+       id="g232"
+       class="overlines-above" />
+    <g
+       id="g234"
+       class="xaxislayer-above" />
+    <g
+       id="g236"
+       class="yaxislayer-above" />
+    <g
+       id="g238"
+       class="overaxes-above" />
+    <g
+       id="g246"
+       class="layer-subplot">
+      <g
+         id="g242"
+         class="shapelayer" />
+      <g
+         id="g244"
+         class="imagelayer" />
+    </g>
+    <g
+       id="g252"
+       class="minor-gridlayer">
+      <g
+         id="g248"
+         class="x11" />
+      <g
+         id="g250"
+         class="y11" />
+    </g>
+    <g
+       id="g258"
+       class="gridlayer">
+      <g
+         id="g254"
+         class="x11" />
+      <g
+         id="g256"
+         class="y11" />
+    </g>
+    <g
+       id="g260"
+       class="zerolinelayer" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       id="path262"
+       class="xlines-below" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       id="path264"
+       class="ylines-below" />
+    <g
+       id="g266"
+       class="overlines-below" />
+    <g
+       id="g268"
+       class="xaxislayer-below" />
+    <g
+       id="g270"
+       class="yaxislayer-below" />
+    <g
+       id="g272"
+       class="overaxes-below" />
+    <g
+       id="g280"
+       clip-path="url(#clip519a06x11y11plot)"
+       transform="translate(135.96364,100)"
+       class="plot">
+      <g
+         id="g278"
+         class="heatmaplayer mlayer">
+        <g
+           id="g276"
+           class="hm">
+          <image
+             id="image274"
+             style="opacity:1"
+             xlink:href="data:image/png;base64,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"
+             y="0"
+             x="0"
+             width="560"
+             height="230"
+             preserveAspectRatio="none" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g282"
+       class="overplot" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path284"
+       style="fill:none"
+       d="M 0,0"
+       class="xlines-above crisp" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path286"
+       style="fill:none"
+       d="M 0,0"
+       class="ylines-above crisp" />
+    <g
+       id="g288"
+       class="overlines-above" />
+    <g
+       id="g350"
+       class="xaxislayer-above">
+      <g
+         id="g292"
+         class="x11tick">
+        <text
+           id="text290"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           transform="rotate(30,77.306818,625.51297)"
+           y="343"
+           x="0">PP_0897 (FUM)</text>
+      </g>
+      <g
+         id="g296"
+         class="x11tick">
+        <text
+           id="text294"
+           transform="rotate(30,95.961818,695.13438)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_0943 (fagA)</text>
+      </g>
+      <g
+         id="g300"
+         class="x11tick">
+        <text
+           id="text298"
+           transform="rotate(30,114.61682,764.75579)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_0944 (FUM)</text>
+      </g>
+      <g
+         id="g304"
+         class="x11tick">
+        <text
+           id="text302"
+           transform="rotate(30,133.27182,834.3772)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_0945 (coding a tetraticopeptide protein)</text>
+      </g>
+      <g
+         id="g308"
+         class="x11tick">
+        <text
+           id="text306"
+           transform="rotate(30,151.92682,903.9986)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_0946 (sodA)</text>
+      </g>
+      <g
+         id="g312"
+         class="x11tick">
+        <text
+           id="text310"
+           transform="rotate(30,170.58182,973.62001)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_1755 (FUM)</text>
+      </g>
+      <g
+         id="g316"
+         class="x11tick">
+        <text
+           id="text314"
+           transform="rotate(30,189.23682,1043.2414)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_1983 (coding a PAS/PAC/GAF sensor-containing)</text>
+      </g>
+      <g
+         id="g320"
+         class="x11tick">
+        <text
+           id="text318"
+           transform="rotate(30,207.89182,1112.8628)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_3145 (coding a DUF3313 domain-containing)</text>
+      </g>
+      <g
+         id="g324"
+         class="x11tick">
+        <text
+           id="text322"
+           transform="rotate(30,226.54682,1182.4842)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4011 (icd - ICDHyr)</text>
+      </g>
+      <g
+         id="g328"
+         class="x11tick">
+        <text
+           id="text326"
+           transform="rotate(30,245.20182,1252.1056)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4012 (idh - ICDHyr)</text>
+      </g>
+      <g
+         id="g332"
+         class="x11tick">
+        <text
+           id="text330"
+           transform="rotate(30,263.85682,1321.7271)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4116 (ICL)</text>
+      </g>
+      <g
+         id="g336"
+         class="x11tick">
+        <text
+           id="text334"
+           transform="rotate(30,282.50682,1391.3298)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4185 (SUCOAS)</text>
+      </g>
+      <g
+         id="g340"
+         class="x11tick">
+        <text
+           id="text338"
+           transform="rotate(30,301.16182,1460.9512)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4186 (SUCOAS)</text>
+      </g>
+      <g
+         id="g344"
+         class="x11tick">
+        <text
+           id="text342"
+           transform="rotate(30,319.81682,1530.5726)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4194 (CS)</text>
+      </g>
+      <g
+         id="g348"
+         class="x11tick">
+        <text
+           id="text346"
+           transform="rotate(30,338.47182,1600.194)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="343"
+           x="0">PP_4565 (aceK)</text>
+      </g>
+    </g>
+    <g
+       id="g392"
+       class="yaxislayer-above">
+      <g
+         id="g354"
+         class="y11tick">
+        <text
+           id="text352"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           transform="translate(0,318.5)"
+           y="4.1999998"
+           x="696.59998">PP_0897 (FUM)</text>
+      </g>
+      <g
+         id="g358"
+         class="y11tick">
+        <text
+           id="text356"
+           transform="translate(0,295.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4186 (SUCOAS)</text>
+      </g>
+      <g
+         id="g362"
+         class="y11tick">
+        <text
+           id="text360"
+           transform="translate(0,272.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4012 (idh - ICDHyr)</text>
+      </g>
+      <g
+         id="g366"
+         class="y11tick">
+        <text
+           id="text364"
+           transform="translate(0,249.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4194 (CS)</text>
+      </g>
+      <g
+         id="g370"
+         class="y11tick">
+        <text
+           id="text368"
+           transform="translate(0,226.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4185 (SUCOAS)</text>
+      </g>
+      <g
+         id="g374"
+         class="y11tick">
+        <text
+           id="text372"
+           transform="translate(0,203.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_0944 (FUM)</text>
+      </g>
+      <g
+         id="g378"
+         class="y11tick">
+        <text
+           id="text376"
+           transform="translate(0,180.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4116 (ICL)</text>
+      </g>
+      <g
+         id="g382"
+         class="y11tick">
+        <text
+           id="text380"
+           transform="translate(0,157.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4011 (icd - ICDHyr)</text>
+      </g>
+      <g
+         id="g386"
+         class="y11tick">
+        <text
+           id="text384"
+           transform="translate(0,134.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_1755 (FUM)</text>
+      </g>
+      <g
+         id="g390"
+         class="y11tick">
+        <text
+           id="text388"
+           transform="translate(0,111.5)"
+           style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;opacity:1;fill:#2a3f5f;fill-opacity:1"
+           y="4.1999998"
+           x="696.59998">PP_4565 (aceK)</text>
+      </g>
+    </g>
+    <g
+       id="g394"
+       class="overaxes-above" />
+  </g>
+  <g
+     class="polarlayer"
+     id="g400" />
+  <g
+     class="smithlayer"
+     id="g402" />
+  <g
+     class="ternarylayer"
+     id="g404" />
+  <g
+     class="geolayer"
+     id="g406" />
+  <g
+     class="funnelarealayer"
+     id="g408" />
+  <g
+     class="pielayer"
+     id="g410" />
+  <g
+     class="iciclelayer"
+     id="g412" />
+  <g
+     class="treemaplayer"
+     id="g414" />
+  <g
+     class="sunburstlayer"
+     id="g416" />
+  <g
+     class="glimages"
+     id="g418" />
+  <defs
+     id="topdefs-519a06">
+    <g
+       class="clips"
+       id="g420" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g427">
+    <g
+       class="imagelayer"
+       id="g423" />
+    <g
+       class="shapelayer"
+       id="g425" />
+  </g>
+  <g
+     class="infolayer"
+     id="g469">
+    <g
+       class="cb40256f colorbar"
+       transform="translate(80,100)"
+       id="g457">
+      <rect
+         class="cbbg"
+         x="661"
+         y="0"
+         width="247.03125"
+         height="230"
+         style="fill: rgb(0, 0, 0); fill-opacity: 0; stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 0;"
+         id="rect429" />
+      <g
+         class="cbfills"
+         transform="translate(0,10)"
+         id="g433">
+        <rect
+           class="cbfill gradient_filled"
+           x="761"
+           y="0"
+           width="30"
+           height="210"
+           style="fill: url('#g519a06-cb40256f');"
+           id="rect431" />
+      </g>
+      <g
+         class="cblines"
+         transform="translate(0,10)"
+         id="g435" />
+      <g
+         class="cbaxis crisp"
+         transform="translate(0,-100)"
+         id="g449">
+        <g
+           class="ycb40256ftick"
+           id="g439">
+          <text
+             text-anchor="start"
+             x="793.9"
+             y="4.199999999999999"
+             transform="translate(0,272.74)"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; opacity: 1;"
+             id="text437">0</text>
+        </g>
+        <g
+           class="ycb40256ftick"
+           id="g443">
+          <text
+             text-anchor="start"
+             x="793.9"
+             y="4.199999999999999"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,191.37)"
+             id="text441">0.5</text>
+        </g>
+        <g
+           class="ycb40256ftick"
+           id="g447">
+          <text
+             text-anchor="start"
+             x="793.9"
+             y="4.199999999999999"
+             style="font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 12px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; opacity: 1;"
+             transform="translate(0,110)"
+             id="text445">1</text>
+        </g>
+      </g>
+      <g
+         class="cbtitleunshift"
+         transform="translate(-80,-100)"
+         id="g453">
+        <g
+           class="cbtitle"
+           id="g451" />
+      </g>
+      <rect
+         class="cboutline"
+         x="761"
+         y="10"
+         width="30"
+         height="210"
+         style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: none; stroke-width: 0;"
+         id="rect455" />
+    </g>
+    <g
+       class="g-gtitle"
+       id="g459" />
+    <g
+       class="g-x9title"
+       id="g461" />
+    <g
+       class="g-x11title"
+       id="g463" />
+    <g
+       class="g-y9title"
+       id="g465" />
+    <g
+       class="g-y11title"
+       id="g467" />
+  </g>
+</svg>

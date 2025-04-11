@@ -1,0 +1,670 @@
+#node	identifier	category	term ID	term description
+PP_0897	160488.PP_0897	GO Process	GO:0006091	Generation of precursor metabolites and energy
+PP_0897	160488.PP_0897	GO Process	GO:0008152	Metabolic process
+PP_0897	160488.PP_0897	GO Process	GO:0009987	Cellular process
+PP_0897	160488.PP_0897	GO Process	GO:0044237	Cellular metabolic process
+PP_0897	160488.PP_0897	GO Function	GO:0003824	Catalytic activity
+PP_0897	160488.PP_0897	GO Function	GO:0004333	Fumarate hydratase activity
+PP_0897	160488.PP_0897	GO Function	GO:0005488	Binding
+PP_0897	160488.PP_0897	GO Function	GO:0016829	Lyase activity
+PP_0897	160488.PP_0897	GO Function	GO:0016835	Carbon-oxygen lyase activity
+PP_0897	160488.PP_0897	GO Function	GO:0016836	Hydro-lyase activity
+PP_0897	160488.PP_0897	GO Function	GO:0043167	Ion binding
+PP_0897	160488.PP_0897	GO Function	GO:0043169	Cation binding
+PP_0897	160488.PP_0897	GO Function	GO:0046872	Metal ion binding
+PP_0897	160488.PP_0897	GO Function	GO:0051536	Iron-sulfur cluster binding
+PP_0897	160488.PP_0897	GO Function	GO:0051539	4 iron, 4 sulfur cluster binding
+PP_0897	160488.PP_0897	GO Function	GO:0051540	Metal cluster binding
+PP_0897	160488.PP_0897	GO Component	GO:0005622	Intracellular anatomical structure
+PP_0897	160488.PP_0897	GO Component	GO:0005737	Cytoplasm
+PP_0897	160488.PP_0897	GO Component	GO:0005829	Cytosol
+PP_0897	160488.PP_0897	GO Component	GO:0110165	Cellular anatomical entity
+PP_0897	160488.PP_0897	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+PP_0897	160488.PP_0897	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+PP_0897	160488.PP_0897	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+PP_0897	160488.PP_0897	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+PP_0897	160488.PP_0897	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+PP_0897	160488.PP_0897	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+PP_0897	160488.PP_0897	STRING clusters	CL:1843	Mixed, incl. Malate dehydrogenase activity, and Fumarate hydratase activity
+PP_0897	160488.PP_0897	STRING clusters	CL:1862	Fumarate hydratase activity, and Malate dehydrogenase activity
+PP_0897	160488.PP_0897	KEGG	ppu00020	Citrate cycle (TCA cycle)
+PP_0897	160488.PP_0897	KEGG	ppu00620	Pyruvate metabolism
+PP_0897	160488.PP_0897	KEGG	ppu01100	Metabolic pathways
+PP_0897	160488.PP_0897	KEGG	ppu01110	Biosynthesis of secondary metabolites
+PP_0897	160488.PP_0897	KEGG	ppu01120	Microbial metabolism in diverse environments
+PP_0897	160488.PP_0897	KEGG	ppu01200	Carbon metabolism
+PP_0897	160488.PP_0897	COMPARTMENTS	GOCC:0005622	Intracellular
+PP_0897	160488.PP_0897	COMPARTMENTS	GOCC:0005737	Cytoplasm
+PP_0897	160488.PP_0897	COMPARTMENTS	GOCC:0005829	Cytosol
+PP_0897	160488.PP_0897	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+PP_0897	160488.PP_0897	UniProt Keywords	KW-0004	4Fe-4S
+PP_0897	160488.PP_0897	UniProt Keywords	KW-0408	Iron
+PP_0897	160488.PP_0897	UniProt Keywords	KW-0411	Iron-sulfur
+PP_0897	160488.PP_0897	UniProt Keywords	KW-0456	Lyase
+PP_0897	160488.PP_0897	UniProt Keywords	KW-0479	Metal-binding
+PP_0897	160488.PP_0897	Pfam	PF05681	Fumarate hydratase (Fumerase)
+PP_0897	160488.PP_0897	Pfam	PF05683	Fumarase C-terminus
+PP_0897	160488.PP_0897	InterPro	IPR004646	Fe-S hydro-lyase, tartrate dehydratase alpha-type, catalytic domain
+PP_0897	160488.PP_0897	InterPro	IPR004647	Fe-S hydro-lyase, tartrate dehydratase beta-type, catalytic domain
+PP_0897	160488.PP_0897	InterPro	IPR011167	Iron-dependent fumarate hydratase
+PP_0897	160488.PP_0897	InterPro	IPR036660	Fe-S hydro-lyase, tartrate dehydratase beta-type, catalytic domain superfamily
+aceK	160488.PP_4565	GO Process	GO:0005975	Carbohydrate metabolic process
+aceK	160488.PP_4565	GO Process	GO:0005996	Monosaccharide metabolic process
+aceK	160488.PP_4565	GO Process	GO:0006006	Glucose metabolic process
+aceK	160488.PP_4565	GO Process	GO:0006081	Cellular aldehyde metabolic process
+aceK	160488.PP_4565	GO Process	GO:0006082	Organic acid metabolic process
+aceK	160488.PP_4565	GO Process	GO:0006091	Generation of precursor metabolites and energy
+aceK	160488.PP_4565	GO Process	GO:0006097	Glyoxylate cycle
+aceK	160488.PP_4565	GO Process	GO:0006099	Tricarboxylic acid cycle
+aceK	160488.PP_4565	GO Process	GO:0006793	Phosphorus metabolic process
+aceK	160488.PP_4565	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+aceK	160488.PP_4565	GO Process	GO:0008152	Metabolic process
+aceK	160488.PP_4565	GO Process	GO:0009060	Aerobic respiration
+aceK	160488.PP_4565	GO Process	GO:0009987	Cellular process
+aceK	160488.PP_4565	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+aceK	160488.PP_4565	GO Process	GO:0016310	Phosphorylation
+aceK	160488.PP_4565	GO Process	GO:0019318	Hexose metabolic process
+aceK	160488.PP_4565	GO Process	GO:0019752	Carboxylic acid metabolic process
+aceK	160488.PP_4565	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+aceK	160488.PP_4565	GO Process	GO:0043436	Oxoacid metabolic process
+aceK	160488.PP_4565	GO Process	GO:0044237	Cellular metabolic process
+aceK	160488.PP_4565	GO Process	GO:0044238	Primary metabolic process
+aceK	160488.PP_4565	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+aceK	160488.PP_4565	GO Process	GO:0044281	Small molecule metabolic process
+aceK	160488.PP_4565	GO Process	GO:0045333	Cellular respiration
+aceK	160488.PP_4565	GO Process	GO:0046487	Glyoxylate metabolic process
+aceK	160488.PP_4565	GO Process	GO:0071704	Organic substance metabolic process
+aceK	160488.PP_4565	GO Function	GO:0000166	Nucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0003824	Catalytic activity
+aceK	160488.PP_4565	GO Function	GO:0004672	Protein kinase activity
+aceK	160488.PP_4565	GO Function	GO:0004674	Protein serine/threonine kinase activity
+aceK	160488.PP_4565	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+aceK	160488.PP_4565	GO Function	GO:0005488	Binding
+aceK	160488.PP_4565	GO Function	GO:0005524	ATP binding
+aceK	160488.PP_4565	GO Function	GO:0008772	[Isocitrate dehydrogenase (NADP+)] kinase activity
+aceK	160488.PP_4565	GO Function	GO:0016301	Kinase activity
+aceK	160488.PP_4565	GO Function	GO:0016740	Transferase activity
+aceK	160488.PP_4565	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+aceK	160488.PP_4565	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+aceK	160488.PP_4565	GO Function	GO:0016787	Hydrolase activity
+aceK	160488.PP_4565	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+aceK	160488.PP_4565	GO Function	GO:0016791	Phosphatase activity
+aceK	160488.PP_4565	GO Function	GO:0017076	Purine nucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0030554	Adenyl nucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0032553	Ribonucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0032555	Purine ribonucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0032559	Adenyl ribonucleotide binding
+aceK	160488.PP_4565	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+aceK	160488.PP_4565	GO Function	GO:0036094	Small molecule binding
+aceK	160488.PP_4565	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+aceK	160488.PP_4565	GO Function	GO:0043167	Ion binding
+aceK	160488.PP_4565	GO Function	GO:0043168	Anion binding
+aceK	160488.PP_4565	GO Function	GO:0097159	Organic cyclic compound binding
+aceK	160488.PP_4565	GO Function	GO:0097367	Carbohydrate derivative binding
+aceK	160488.PP_4565	GO Function	GO:0140096	Catalytic activity, acting on a protein
+aceK	160488.PP_4565	GO Function	GO:1901265	Nucleoside phosphate binding
+aceK	160488.PP_4565	GO Function	GO:1901363	Heterocyclic compound binding
+aceK	160488.PP_4565	GO Component	GO:0005622	Intracellular anatomical structure
+aceK	160488.PP_4565	GO Component	GO:0005737	Cytoplasm
+aceK	160488.PP_4565	GO Component	GO:0110165	Cellular anatomical entity
+aceK	160488.PP_4565	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+aceK	160488.PP_4565	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+aceK	160488.PP_4565	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+aceK	160488.PP_4565	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+aceK	160488.PP_4565	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+aceK	160488.PP_4565	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+aceK	160488.PP_4565	STRING clusters	CL:1806	Tricarboxylic acid cycle, and Propionate metabolic process
+aceK	160488.PP_4565	COMPARTMENTS	GOCC:0005622	Intracellular
+aceK	160488.PP_4565	COMPARTMENTS	GOCC:0005737	Cytoplasm
+aceK	160488.PP_4565	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+aceK	160488.PP_4565	UniProt Keywords	KW-0067	ATP-binding
+aceK	160488.PP_4565	UniProt Keywords	KW-0329	Glyoxylate bypass
+aceK	160488.PP_4565	UniProt Keywords	KW-0378	Hydrolase
+aceK	160488.PP_4565	UniProt Keywords	KW-0418	Kinase
+aceK	160488.PP_4565	UniProt Keywords	KW-0547	Nucleotide-binding
+aceK	160488.PP_4565	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+aceK	160488.PP_4565	UniProt Keywords	KW-0808	Transferase
+aceK	160488.PP_4565	UniProt Keywords	KW-0816	Tricarboxylic acid cycle
+aceK	160488.PP_4565	UniProt Keywords	KW-0904	Protein phosphatase
+aceK	160488.PP_4565	UniProt Keywords	KW-0963	Cytoplasm
+aceK	160488.PP_4565	InterPro	IPR010452	Isocitrate dehydrogenase kinasephosphatase
+aceK	160488.PP_4565	InterPro	IPR046854	Isocitrate dehydrogenase kinase/phosphatase (AceK), regulatory domain
+aceK	160488.PP_4565	InterPro	IPR046855	Isocitrate dehydrogenase kinase/phosphatase (AceK), kinase domain
+acnA-I	160488.PP_2112	GO Process	GO:0006082	Organic acid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0006091	Generation of precursor metabolites and energy
+acnA-I	160488.PP_2112	GO Process	GO:0006099	Tricarboxylic acid cycle
+acnA-I	160488.PP_2112	GO Process	GO:0006101	Citrate metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0006629	Lipid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0006631	Fatty acid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0006950	Response to stress
+acnA-I	160488.PP_2112	GO Process	GO:0006979	Response to oxidative stress
+acnA-I	160488.PP_2112	GO Process	GO:0008152	Metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0009060	Aerobic respiration
+acnA-I	160488.PP_2112	GO Process	GO:0009061	Anaerobic respiration
+acnA-I	160488.PP_2112	GO Process	GO:0009987	Cellular process
+acnA-I	160488.PP_2112	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+acnA-I	160488.PP_2112	GO Process	GO:0019541	Propionate metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0019679	Propionate metabolic process, methylcitrate cycle
+acnA-I	160488.PP_2112	GO Process	GO:0019752	Carboxylic acid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0043436	Oxoacid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0044237	Cellular metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0044238	Primary metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0044255	Cellular lipid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0044281	Small molecule metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0045333	Cellular respiration
+acnA-I	160488.PP_2112	GO Process	GO:0046459	Short-chain fatty acid metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0050896	Response to stimulus
+acnA-I	160488.PP_2112	GO Process	GO:0071704	Organic substance metabolic process
+acnA-I	160488.PP_2112	GO Process	GO:0072350	Tricarboxylic acid metabolic process
+acnA-I	160488.PP_2112	GO Function	GO:0003676	Nucleic acid binding
+acnA-I	160488.PP_2112	GO Function	GO:0003723	RNA binding
+acnA-I	160488.PP_2112	GO Function	GO:0003729	mRNA binding
+acnA-I	160488.PP_2112	GO Function	GO:0003730	mRNA 3-UTR binding
+acnA-I	160488.PP_2112	GO Function	GO:0003824	Catalytic activity
+acnA-I	160488.PP_2112	GO Function	GO:0003994	Aconitate hydratase activity
+acnA-I	160488.PP_2112	GO Function	GO:0005488	Binding
+acnA-I	160488.PP_2112	GO Function	GO:0005506	Iron ion binding
+acnA-I	160488.PP_2112	GO Function	GO:0016829	Lyase activity
+acnA-I	160488.PP_2112	GO Function	GO:0016835	Carbon-oxygen lyase activity
+acnA-I	160488.PP_2112	GO Function	GO:0016836	Hydro-lyase activity
+acnA-I	160488.PP_2112	GO Function	GO:0030350	Iron-responsive element binding
+acnA-I	160488.PP_2112	GO Function	GO:0043167	Ion binding
+acnA-I	160488.PP_2112	GO Function	GO:0043169	Cation binding
+acnA-I	160488.PP_2112	GO Function	GO:0046872	Metal ion binding
+acnA-I	160488.PP_2112	GO Function	GO:0046914	Transition metal ion binding
+acnA-I	160488.PP_2112	GO Function	GO:0047456	2-methylisocitrate dehydratase activity
+acnA-I	160488.PP_2112	GO Function	GO:0047780	Citrate dehydratase activity
+acnA-I	160488.PP_2112	GO Function	GO:0051536	Iron-sulfur cluster binding
+acnA-I	160488.PP_2112	GO Function	GO:0051539	4 iron, 4 sulfur cluster binding
+acnA-I	160488.PP_2112	GO Function	GO:0051540	Metal cluster binding
+acnA-I	160488.PP_2112	GO Function	GO:0097159	Organic cyclic compound binding
+acnA-I	160488.PP_2112	GO Function	GO:1901363	Heterocyclic compound binding
+acnA-I	160488.PP_2112	GO Component	GO:0005622	Intracellular anatomical structure
+acnA-I	160488.PP_2112	GO Component	GO:0005737	Cytoplasm
+acnA-I	160488.PP_2112	GO Component	GO:0005829	Cytosol
+acnA-I	160488.PP_2112	GO Component	GO:0110165	Cellular anatomical entity
+acnA-I	160488.PP_2112	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+acnA-I	160488.PP_2112	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+acnA-I	160488.PP_2112	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+acnA-I	160488.PP_2112	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+acnA-I	160488.PP_2112	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+acnA-I	160488.PP_2112	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+acnA-I	160488.PP_2112	STRING clusters	CL:1806	Tricarboxylic acid cycle, and Propionate metabolic process
+acnA-I	160488.PP_2112	STRING clusters	CL:1808	Tricarboxylic acid cycle
+acnA-I	160488.PP_2112	STRING clusters	CL:1820	mRNA 3-UTR binding, and Isocitrate dehydrogenase (NADP+) activity
+acnA-I	160488.PP_2112	KEGG	ppu00020	Citrate cycle (TCA cycle)
+acnA-I	160488.PP_2112	KEGG	ppu00630	Glyoxylate and dicarboxylate metabolism
+acnA-I	160488.PP_2112	KEGG	ppu01100	Metabolic pathways
+acnA-I	160488.PP_2112	KEGG	ppu01110	Biosynthesis of secondary metabolites
+acnA-I	160488.PP_2112	KEGG	ppu01120	Microbial metabolism in diverse environments
+acnA-I	160488.PP_2112	KEGG	ppu01200	Carbon metabolism
+acnA-I	160488.PP_2112	KEGG	ppu01210	2-Oxocarboxylic acid metabolism
+acnA-I	160488.PP_2112	KEGG	ppu01230	Biosynthesis of amino acids
+acnA-I	160488.PP_2112	COMPARTMENTS	GOCC:0005622	Intracellular
+acnA-I	160488.PP_2112	COMPARTMENTS	GOCC:0005737	Cytoplasm
+acnA-I	160488.PP_2112	COMPARTMENTS	GOCC:0005829	Cytosol
+acnA-I	160488.PP_2112	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acnA-I	160488.PP_2112	UniProt Keywords	KW-0004	4Fe-4S
+acnA-I	160488.PP_2112	UniProt Keywords	KW-0408	Iron
+acnA-I	160488.PP_2112	UniProt Keywords	KW-0411	Iron-sulfur
+acnA-I	160488.PP_2112	UniProt Keywords	KW-0456	Lyase
+acnA-I	160488.PP_2112	UniProt Keywords	KW-0479	Metal-binding
+acnA-I	160488.PP_2112	Pfam	PF00330	Aconitase family (aconitate hydratase)
+acnA-I	160488.PP_2112	Pfam	PF00694	Aconitase C-terminal domain
+acnA-I	160488.PP_2112	InterPro	IPR000573	Aconitase A/isopropylmalate dehydratase small subunit, swivel domain
+acnA-I	160488.PP_2112	InterPro	IPR001030	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain
+acnA-I	160488.PP_2112	InterPro	IPR006249	Aconitase/Iron-responsive element-binding protein 2
+acnA-I	160488.PP_2112	InterPro	IPR015928	Aconitase/3-isopropylmalate dehydratase, swivel
+acnA-I	160488.PP_2112	InterPro	IPR015931	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha, subdomain 1/3
+acnA-I	160488.PP_2112	InterPro	IPR018136	Aconitase family, 4Fe-4S cluster binding site
+acnA-I	160488.PP_2112	InterPro	IPR036008	Aconitase, iron-sulfur domain
+acnA-I	160488.PP_2112	InterPro	IPR044137	Aconitase A, swivel domain
+acnB	160488.PP_2339	GO Process	GO:0006082	Organic acid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0006091	Generation of precursor metabolites and energy
+acnB	160488.PP_2339	GO Process	GO:0006099	Tricarboxylic acid cycle
+acnB	160488.PP_2339	GO Process	GO:0006629	Lipid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0006631	Fatty acid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0008152	Metabolic process
+acnB	160488.PP_2339	GO Process	GO:0009056	Catabolic process
+acnB	160488.PP_2339	GO Process	GO:0009060	Aerobic respiration
+acnB	160488.PP_2339	GO Process	GO:0009062	Fatty acid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0009987	Cellular process
+acnB	160488.PP_2339	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+acnB	160488.PP_2339	GO Process	GO:0016042	Lipid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0016054	Organic acid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0019541	Propionate metabolic process
+acnB	160488.PP_2339	GO Process	GO:0019543	Propionate catabolic process
+acnB	160488.PP_2339	GO Process	GO:0019626	Short-chain fatty acid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0019629	Propionate catabolic process, 2-methylcitrate cycle
+acnB	160488.PP_2339	GO Process	GO:0019752	Carboxylic acid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0043436	Oxoacid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0044237	Cellular metabolic process
+acnB	160488.PP_2339	GO Process	GO:0044238	Primary metabolic process
+acnB	160488.PP_2339	GO Process	GO:0044242	Cellular lipid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0044248	Cellular catabolic process
+acnB	160488.PP_2339	GO Process	GO:0044255	Cellular lipid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0044281	Small molecule metabolic process
+acnB	160488.PP_2339	GO Process	GO:0044282	Small molecule catabolic process
+acnB	160488.PP_2339	GO Process	GO:0045333	Cellular respiration
+acnB	160488.PP_2339	GO Process	GO:0046395	Carboxylic acid catabolic process
+acnB	160488.PP_2339	GO Process	GO:0046459	Short-chain fatty acid metabolic process
+acnB	160488.PP_2339	GO Process	GO:0071704	Organic substance metabolic process
+acnB	160488.PP_2339	GO Process	GO:0072329	Monocarboxylic acid catabolic process
+acnB	160488.PP_2339	GO Process	GO:1901575	Organic substance catabolic process
+acnB	160488.PP_2339	GO Function	GO:0003676	Nucleic acid binding
+acnB	160488.PP_2339	GO Function	GO:0003723	RNA binding
+acnB	160488.PP_2339	GO Function	GO:0003729	mRNA binding
+acnB	160488.PP_2339	GO Function	GO:0003730	mRNA 3-UTR binding
+acnB	160488.PP_2339	GO Function	GO:0003824	Catalytic activity
+acnB	160488.PP_2339	GO Function	GO:0003994	Aconitate hydratase activity
+acnB	160488.PP_2339	GO Function	GO:0005488	Binding
+acnB	160488.PP_2339	GO Function	GO:0016829	Lyase activity
+acnB	160488.PP_2339	GO Function	GO:0016835	Carbon-oxygen lyase activity
+acnB	160488.PP_2339	GO Function	GO:0016836	Hydro-lyase activity
+acnB	160488.PP_2339	GO Function	GO:0043167	Ion binding
+acnB	160488.PP_2339	GO Function	GO:0043169	Cation binding
+acnB	160488.PP_2339	GO Function	GO:0046872	Metal ion binding
+acnB	160488.PP_2339	GO Function	GO:0047456	2-methylisocitrate dehydratase activity
+acnB	160488.PP_2339	GO Function	GO:0047780	Citrate dehydratase activity
+acnB	160488.PP_2339	GO Function	GO:0051536	Iron-sulfur cluster binding
+acnB	160488.PP_2339	GO Function	GO:0051539	4 iron, 4 sulfur cluster binding
+acnB	160488.PP_2339	GO Function	GO:0051540	Metal cluster binding
+acnB	160488.PP_2339	GO Function	GO:0097159	Organic cyclic compound binding
+acnB	160488.PP_2339	GO Function	GO:1901363	Heterocyclic compound binding
+acnB	160488.PP_2339	GO Component	GO:0005622	Intracellular anatomical structure
+acnB	160488.PP_2339	GO Component	GO:0005737	Cytoplasm
+acnB	160488.PP_2339	GO Component	GO:0005829	Cytosol
+acnB	160488.PP_2339	GO Component	GO:0110165	Cellular anatomical entity
+acnB	160488.PP_2339	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+acnB	160488.PP_2339	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+acnB	160488.PP_2339	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+acnB	160488.PP_2339	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+acnB	160488.PP_2339	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+acnB	160488.PP_2339	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+acnB	160488.PP_2339	STRING clusters	CL:1806	Tricarboxylic acid cycle, and Propionate metabolic process
+acnB	160488.PP_2339	STRING clusters	CL:1808	Tricarboxylic acid cycle
+acnB	160488.PP_2339	STRING clusters	CL:1820	mRNA 3-UTR binding, and Isocitrate dehydrogenase (NADP+) activity
+acnB	160488.PP_2339	KEGG	ppu00020	Citrate cycle (TCA cycle)
+acnB	160488.PP_2339	KEGG	ppu00630	Glyoxylate and dicarboxylate metabolism
+acnB	160488.PP_2339	KEGG	ppu00640	Propanoate metabolism
+acnB	160488.PP_2339	KEGG	ppu01100	Metabolic pathways
+acnB	160488.PP_2339	KEGG	ppu01110	Biosynthesis of secondary metabolites
+acnB	160488.PP_2339	KEGG	ppu01120	Microbial metabolism in diverse environments
+acnB	160488.PP_2339	KEGG	ppu01200	Carbon metabolism
+acnB	160488.PP_2339	KEGG	ppu01210	2-Oxocarboxylic acid metabolism
+acnB	160488.PP_2339	KEGG	ppu01230	Biosynthesis of amino acids
+acnB	160488.PP_2339	COMPARTMENTS	GOCC:0005622	Intracellular
+acnB	160488.PP_2339	COMPARTMENTS	GOCC:0005737	Cytoplasm
+acnB	160488.PP_2339	COMPARTMENTS	GOCC:0005829	Cytosol
+acnB	160488.PP_2339	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+acnB	160488.PP_2339	UniProt Keywords	KW-0004	4Fe-4S
+acnB	160488.PP_2339	UniProt Keywords	KW-0408	Iron
+acnB	160488.PP_2339	UniProt Keywords	KW-0411	Iron-sulfur
+acnB	160488.PP_2339	UniProt Keywords	KW-0456	Lyase
+acnB	160488.PP_2339	UniProt Keywords	KW-0479	Metal-binding
+acnB	160488.PP_2339	UniProt Keywords	KW-0816	Tricarboxylic acid cycle
+acnB	160488.PP_2339	Pfam	PF00330	Aconitase family (aconitate hydratase)
+acnB	160488.PP_2339	Pfam	PF06434	Aconitate hydratase 2 N-terminus
+acnB	160488.PP_2339	Pfam	PF11791	Aconitate B N-terminal domain
+acnB	160488.PP_2339	InterPro	IPR001030	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain
+acnB	160488.PP_2339	InterPro	IPR004406	Aconitase B
+acnB	160488.PP_2339	InterPro	IPR015928	Aconitase/3-isopropylmalate dehydratase, swivel
+acnB	160488.PP_2339	InterPro	IPR015929	Aconitase B, swivel
+acnB	160488.PP_2339	InterPro	IPR015931	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha, subdomain 1/3
+acnB	160488.PP_2339	InterPro	IPR015932	Aconitase, domain 2
+acnB	160488.PP_2339	InterPro	IPR015933	Aconitase B, HEAT-like domain
+acnB	160488.PP_2339	InterPro	IPR018136	Aconitase family, 4Fe-4S cluster binding site
+acnB	160488.PP_2339	InterPro	IPR036008	Aconitase, iron-sulfur domain
+acnB	160488.PP_2339	InterPro	IPR036288	Aconitase B, HEAT-like domain superfamily
+gdhA	160488.PP_0675	GO Process	GO:0006082	Organic acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0006520	Cellular amino acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0006536	Glutamate metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0006537	Glutamate biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0006807	Nitrogen compound metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0008152	Metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0008652	Cellular amino acid biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0009058	Biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0009064	Glutamine family amino acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0009084	Glutamine family amino acid biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0009987	Cellular process
+gdhA	160488.PP_0675	GO Process	GO:0016053	Organic acid biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0019752	Carboxylic acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0043436	Oxoacid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0043648	Dicarboxylic acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0043650	Dicarboxylic acid biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0044237	Cellular metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0044238	Primary metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0044249	Cellular biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0044281	Small molecule metabolic process
+gdhA	160488.PP_0675	GO Process	GO:0044283	Small molecule biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0046394	Carboxylic acid biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:0071704	Organic substance metabolic process
+gdhA	160488.PP_0675	GO Process	GO:1901564	Organonitrogen compound metabolic process
+gdhA	160488.PP_0675	GO Process	GO:1901566	Organonitrogen compound biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:1901576	Organic substance biosynthetic process
+gdhA	160488.PP_0675	GO Process	GO:1901605	Alpha-amino acid metabolic process
+gdhA	160488.PP_0675	GO Process	GO:1901607	Alpha-amino acid biosynthetic process
+gdhA	160488.PP_0675	GO Function	GO:0000166	Nucleotide binding
+gdhA	160488.PP_0675	GO Function	GO:0003824	Catalytic activity
+gdhA	160488.PP_0675	GO Function	GO:0004353	Glutamate dehydrogenase [NAD(P)+] activity
+gdhA	160488.PP_0675	GO Function	GO:0004354	Glutamate dehydrogenase (NADP+) activity
+gdhA	160488.PP_0675	GO Function	GO:0005488	Binding
+gdhA	160488.PP_0675	GO Function	GO:0016491	Oxidoreductase activity
+gdhA	160488.PP_0675	GO Function	GO:0016638	Oxidoreductase activity, acting on the CH-NH2 group of donors
+gdhA	160488.PP_0675	GO Function	GO:0016639	Oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor
+gdhA	160488.PP_0675	GO Function	GO:0036094	Small molecule binding
+gdhA	160488.PP_0675	GO Function	GO:0097159	Organic cyclic compound binding
+gdhA	160488.PP_0675	GO Function	GO:1901265	Nucleoside phosphate binding
+gdhA	160488.PP_0675	GO Function	GO:1901363	Heterocyclic compound binding
+gdhA	160488.PP_0675	GO Component	GO:0005622	Intracellular anatomical structure
+gdhA	160488.PP_0675	GO Component	GO:0005737	Cytoplasm
+gdhA	160488.PP_0675	GO Component	GO:0005829	Cytosol
+gdhA	160488.PP_0675	GO Component	GO:0110165	Cellular anatomical entity
+gdhA	160488.PP_0675	STRING clusters	CL:3162	Mixed, incl. Alpha-amino acid metabolic process, and Arginine and proline metabolism
+gdhA	160488.PP_0675	STRING clusters	CL:3163	Mixed, incl. Alanine, aspartate and glutamate metabolism, and Arginine and proline metabolism
+gdhA	160488.PP_0675	STRING clusters	CL:3164	Mixed, incl. Alanine, aspartate and glutamate metabolism, and Polyamine metabolic process
+gdhA	160488.PP_0675	STRING clusters	CL:3165	Mixed, incl. Nitrogen metabolism, and Polyamine catabolic process
+gdhA	160488.PP_0675	STRING clusters	CL:3166	Mixed, incl. Nitrogen metabolism, and Polyamine catabolic process
+gdhA	160488.PP_0675	STRING clusters	CL:3167	Mixed, incl. Nitrogen metabolism, and Polyamine catabolic process
+gdhA	160488.PP_0675	STRING clusters	CL:3168	Nitrogen metabolism, and Arginine and proline metabolism
+gdhA	160488.PP_0675	STRING clusters	CL:3169	Nitrogen metabolism, and Regulation of nitrogen utilization
+gdhA	160488.PP_0675	STRING clusters	CL:3170	Mixed, incl. Nitrogen metabolism, and Regulation of nitrogen utilization
+gdhA	160488.PP_0675	STRING clusters	CL:3172	Nitrogen metabolism, and Aminobutyraldehyde dehydrogenase
+gdhA	160488.PP_0675	STRING clusters	CL:3175	Nitrogen metabolism, and Aminobutyraldehyde dehydrogenase
+gdhA	160488.PP_0675	STRING clusters	CL:3179	Glutamate dehydrogenase [NAD(P)+] activity, and Dihydroprymidine dehydrogenase domain II
+gdhA	160488.PP_0675	KEGG	ppu00220	Arginine biosynthesis
+gdhA	160488.PP_0675	KEGG	ppu00250	Alanine, aspartate and glutamate metabolism
+gdhA	160488.PP_0675	KEGG	ppu00910	Nitrogen metabolism
+gdhA	160488.PP_0675	KEGG	ppu01100	Metabolic pathways
+gdhA	160488.PP_0675	KEGG	ppu01120	Microbial metabolism in diverse environments
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:0005622	Intracellular
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:0005737	Cytoplasm
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:0005829	Cytosol
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:1902494	Catalytic complex
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:1990148	Glutamate dehydrogenase complex
+gdhA	160488.PP_0675	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+gdhA	160488.PP_0675	UniProt Keywords	KW-0520	NAD
+gdhA	160488.PP_0675	UniProt Keywords	KW-0547	Nucleotide-binding
+gdhA	160488.PP_0675	UniProt Keywords	KW-0560	Oxidoreductase
+gdhA	160488.PP_0675	Pfam	PF02812	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain
+gdhA	160488.PP_0675	InterPro	IPR006095	Glutamate/phenylalanine/leucine/valine/L-tryptophan dehydrogenase
+gdhA	160488.PP_0675	InterPro	IPR006096	Glutamate/phenylalanine/leucine/valine/L-tryptophan dehydrogenase, C-terminal
+gdhA	160488.PP_0675	InterPro	IPR006097	Glutamate/phenylalanine/leucine/valine/L-tryptophan dehydrogenase, dimerisation domain
+gdhA	160488.PP_0675	InterPro	IPR014362	Glutamate dehydrogenase
+gdhA	160488.PP_0675	InterPro	IPR033524	Leu/Phe/Val dehydrogenases active site
+gdhA	160488.PP_0675	InterPro	IPR033922	NAD(P) binding domain of glutamate dehydrogenase
+gdhA	160488.PP_0675	InterPro	IPR036291	NAD(P)-binding domain superfamily
+gdhA	160488.PP_0675	InterPro	IPR046346	Aminoacid dehydrogenase-like, N-terminal domain superfamily
+gdhA	160488.PP_0675	SMART	SM00839	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+icd	160488.PP_4011	GO Process	GO:0005975	Carbohydrate metabolic process
+icd	160488.PP_4011	GO Process	GO:0006081	Cellular aldehyde metabolic process
+icd	160488.PP_4011	GO Process	GO:0006082	Organic acid metabolic process
+icd	160488.PP_4011	GO Process	GO:0006091	Generation of precursor metabolites and energy
+icd	160488.PP_4011	GO Process	GO:0006097	Glyoxylate cycle
+icd	160488.PP_4011	GO Process	GO:0006099	Tricarboxylic acid cycle
+icd	160488.PP_4011	GO Process	GO:0008152	Metabolic process
+icd	160488.PP_4011	GO Process	GO:0009060	Aerobic respiration
+icd	160488.PP_4011	GO Process	GO:0009987	Cellular process
+icd	160488.PP_4011	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+icd	160488.PP_4011	GO Process	GO:0019752	Carboxylic acid metabolic process
+icd	160488.PP_4011	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+icd	160488.PP_4011	GO Process	GO:0043436	Oxoacid metabolic process
+icd	160488.PP_4011	GO Process	GO:0044237	Cellular metabolic process
+icd	160488.PP_4011	GO Process	GO:0044238	Primary metabolic process
+icd	160488.PP_4011	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+icd	160488.PP_4011	GO Process	GO:0044281	Small molecule metabolic process
+icd	160488.PP_4011	GO Process	GO:0045333	Cellular respiration
+icd	160488.PP_4011	GO Process	GO:0046487	Glyoxylate metabolic process
+icd	160488.PP_4011	GO Process	GO:0071704	Organic substance metabolic process
+icd	160488.PP_4011	GO Function	GO:0000166	Nucleotide binding
+icd	160488.PP_4011	GO Function	GO:0000287	Magnesium ion binding
+icd	160488.PP_4011	GO Function	GO:0003824	Catalytic activity
+icd	160488.PP_4011	GO Function	GO:0004448	Isocitrate dehydrogenase [NAD(P)+] activity
+icd	160488.PP_4011	GO Function	GO:0004450	Isocitrate dehydrogenase (NADP+) activity
+icd	160488.PP_4011	GO Function	GO:0005488	Binding
+icd	160488.PP_4011	GO Function	GO:0016491	Oxidoreductase activity
+icd	160488.PP_4011	GO Function	GO:0016614	Oxidoreductase activity, acting on CH-OH group of donors
+icd	160488.PP_4011	GO Function	GO:0016616	Oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+icd	160488.PP_4011	GO Function	GO:0036094	Small molecule binding
+icd	160488.PP_4011	GO Function	GO:0043167	Ion binding
+icd	160488.PP_4011	GO Function	GO:0043169	Cation binding
+icd	160488.PP_4011	GO Function	GO:0046872	Metal ion binding
+icd	160488.PP_4011	GO Function	GO:0051287	NAD binding
+icd	160488.PP_4011	GO Function	GO:0097159	Organic cyclic compound binding
+icd	160488.PP_4011	GO Function	GO:1901265	Nucleoside phosphate binding
+icd	160488.PP_4011	GO Function	GO:1901363	Heterocyclic compound binding
+icd	160488.PP_4011	GO Component	GO:0005622	Intracellular anatomical structure
+icd	160488.PP_4011	GO Component	GO:0005737	Cytoplasm
+icd	160488.PP_4011	GO Component	GO:0005829	Cytosol
+icd	160488.PP_4011	GO Component	GO:0110165	Cellular anatomical entity
+icd	160488.PP_4011	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+icd	160488.PP_4011	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+icd	160488.PP_4011	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+icd	160488.PP_4011	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+icd	160488.PP_4011	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+icd	160488.PP_4011	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+icd	160488.PP_4011	STRING clusters	CL:1806	Tricarboxylic acid cycle, and Propionate metabolic process
+icd	160488.PP_4011	STRING clusters	CL:1808	Tricarboxylic acid cycle
+icd	160488.PP_4011	STRING clusters	CL:1820	mRNA 3-UTR binding, and Isocitrate dehydrogenase (NADP+) activity
+icd	160488.PP_4011	KEGG	ppu00020	Citrate cycle (TCA cycle)
+icd	160488.PP_4011	KEGG	ppu00480	Glutathione metabolism
+icd	160488.PP_4011	KEGG	ppu01100	Metabolic pathways
+icd	160488.PP_4011	KEGG	ppu01110	Biosynthesis of secondary metabolites
+icd	160488.PP_4011	KEGG	ppu01120	Microbial metabolism in diverse environments
+icd	160488.PP_4011	KEGG	ppu01200	Carbon metabolism
+icd	160488.PP_4011	KEGG	ppu01210	2-Oxocarboxylic acid metabolism
+icd	160488.PP_4011	KEGG	ppu01230	Biosynthesis of amino acids
+icd	160488.PP_4011	COMPARTMENTS	GOCC:0005622	Intracellular
+icd	160488.PP_4011	COMPARTMENTS	GOCC:0005737	Cytoplasm
+icd	160488.PP_4011	COMPARTMENTS	GOCC:0005829	Cytosol
+icd	160488.PP_4011	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+icd	160488.PP_4011	UniProt Keywords	KW-0329	Glyoxylate bypass
+icd	160488.PP_4011	UniProt Keywords	KW-0464	Manganese
+icd	160488.PP_4011	UniProt Keywords	KW-0479	Metal-binding
+icd	160488.PP_4011	UniProt Keywords	KW-0521	NADP
+icd	160488.PP_4011	UniProt Keywords	KW-0560	Oxidoreductase
+icd	160488.PP_4011	UniProt Keywords	KW-0816	Tricarboxylic acid cycle
+icd	160488.PP_4011	InterPro	IPR004439	Isocitrate dehydrogenase NADP-dependent, dimeric, prokaryotic
+icd	160488.PP_4011	InterPro	IPR019818	Isocitrate/isopropylmalate dehydrogenase, conserved site
+icd	160488.PP_4011	InterPro	IPR024084	Isopropylmalate dehydrogenase-like domain
+icd	160488.PP_4011	SMART	SM01329	Isocitrate/isopropylmalate dehydrogenase
+idh	160488.PP_4012	GO Process	GO:0005975	Carbohydrate metabolic process
+idh	160488.PP_4012	GO Process	GO:0006081	Cellular aldehyde metabolic process
+idh	160488.PP_4012	GO Process	GO:0006082	Organic acid metabolic process
+idh	160488.PP_4012	GO Process	GO:0006091	Generation of precursor metabolites and energy
+idh	160488.PP_4012	GO Process	GO:0006097	Glyoxylate cycle
+idh	160488.PP_4012	GO Process	GO:0006099	Tricarboxylic acid cycle
+idh	160488.PP_4012	GO Process	GO:0008152	Metabolic process
+idh	160488.PP_4012	GO Process	GO:0009060	Aerobic respiration
+idh	160488.PP_4012	GO Process	GO:0009987	Cellular process
+idh	160488.PP_4012	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+idh	160488.PP_4012	GO Process	GO:0019752	Carboxylic acid metabolic process
+idh	160488.PP_4012	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+idh	160488.PP_4012	GO Process	GO:0043436	Oxoacid metabolic process
+idh	160488.PP_4012	GO Process	GO:0044237	Cellular metabolic process
+idh	160488.PP_4012	GO Process	GO:0044238	Primary metabolic process
+idh	160488.PP_4012	GO Process	GO:0044262	Cellular carbohydrate metabolic process
+idh	160488.PP_4012	GO Process	GO:0044281	Small molecule metabolic process
+idh	160488.PP_4012	GO Process	GO:0045333	Cellular respiration
+idh	160488.PP_4012	GO Process	GO:0046487	Glyoxylate metabolic process
+idh	160488.PP_4012	GO Process	GO:0071704	Organic substance metabolic process
+idh	160488.PP_4012	GO Function	GO:0003824	Catalytic activity
+idh	160488.PP_4012	GO Function	GO:0004448	Isocitrate dehydrogenase [NAD(P)+] activity
+idh	160488.PP_4012	GO Function	GO:0004450	Isocitrate dehydrogenase (NADP+) activity
+idh	160488.PP_4012	GO Function	GO:0005488	Binding
+idh	160488.PP_4012	GO Function	GO:0016491	Oxidoreductase activity
+idh	160488.PP_4012	GO Function	GO:0016614	Oxidoreductase activity, acting on CH-OH group of donors
+idh	160488.PP_4012	GO Function	GO:0016616	Oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+idh	160488.PP_4012	GO Function	GO:0043167	Ion binding
+idh	160488.PP_4012	GO Function	GO:0043169	Cation binding
+idh	160488.PP_4012	GO Function	GO:0046872	Metal ion binding
+idh	160488.PP_4012	GO Component	GO:0005576	Extracellular region
+idh	160488.PP_4012	GO Component	GO:0005618	Cell wall
+idh	160488.PP_4012	GO Component	GO:0005622	Intracellular anatomical structure
+idh	160488.PP_4012	GO Component	GO:0005737	Cytoplasm
+idh	160488.PP_4012	GO Component	GO:0005829	Cytosol
+idh	160488.PP_4012	GO Component	GO:0005886	Plasma membrane
+idh	160488.PP_4012	GO Component	GO:0009274	Peptidoglycan-based cell wall
+idh	160488.PP_4012	GO Component	GO:0016020	Membrane
+idh	160488.PP_4012	GO Component	GO:0030312	External encapsulating structure
+idh	160488.PP_4012	GO Component	GO:0071944	Cell periphery
+idh	160488.PP_4012	GO Component	GO:0110165	Cellular anatomical entity
+idh	160488.PP_4012	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+idh	160488.PP_4012	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+idh	160488.PP_4012	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+idh	160488.PP_4012	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+idh	160488.PP_4012	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+idh	160488.PP_4012	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+idh	160488.PP_4012	STRING clusters	CL:1806	Tricarboxylic acid cycle, and Propionate metabolic process
+idh	160488.PP_4012	STRING clusters	CL:1808	Tricarboxylic acid cycle
+idh	160488.PP_4012	STRING clusters	CL:1820	mRNA 3-UTR binding, and Isocitrate dehydrogenase (NADP+) activity
+idh	160488.PP_4012	KEGG	ppu00020	Citrate cycle (TCA cycle)
+idh	160488.PP_4012	KEGG	ppu00480	Glutathione metabolism
+idh	160488.PP_4012	KEGG	ppu01100	Metabolic pathways
+idh	160488.PP_4012	KEGG	ppu01110	Biosynthesis of secondary metabolites
+idh	160488.PP_4012	KEGG	ppu01120	Microbial metabolism in diverse environments
+idh	160488.PP_4012	KEGG	ppu01200	Carbon metabolism
+idh	160488.PP_4012	KEGG	ppu01210	2-Oxocarboxylic acid metabolism
+idh	160488.PP_4012	KEGG	ppu01230	Biosynthesis of amino acids
+idh	160488.PP_4012	COMPARTMENTS	GOCC:0005622	Intracellular
+idh	160488.PP_4012	COMPARTMENTS	GOCC:0005737	Cytoplasm
+idh	160488.PP_4012	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+idh	160488.PP_4012	UniProt Keywords	KW-0329	Glyoxylate bypass
+idh	160488.PP_4012	UniProt Keywords	KW-0460	Magnesium
+idh	160488.PP_4012	UniProt Keywords	KW-0479	Metal-binding
+idh	160488.PP_4012	UniProt Keywords	KW-0521	NADP
+idh	160488.PP_4012	UniProt Keywords	KW-0560	Oxidoreductase
+idh	160488.PP_4012	UniProt Keywords	KW-0816	Tricarboxylic acid cycle
+idh	160488.PP_4012	Pfam	PF03971	Monomeric isocitrate dehydrogenase
+idh	160488.PP_4012	InterPro	IPR004436	Isocitrate dehydrogenase NADP-dependent, monomeric
+mdh	160488.PP_0654	GO Process	GO:0006082	Organic acid metabolic process
+mdh	160488.PP_0654	GO Process	GO:0006091	Generation of precursor metabolites and energy
+mdh	160488.PP_0654	GO Process	GO:0006099	Tricarboxylic acid cycle
+mdh	160488.PP_0654	GO Process	GO:0008152	Metabolic process
+mdh	160488.PP_0654	GO Process	GO:0009060	Aerobic respiration
+mdh	160488.PP_0654	GO Process	GO:0009987	Cellular process
+mdh	160488.PP_0654	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+mdh	160488.PP_0654	GO Process	GO:0019752	Carboxylic acid metabolic process
+mdh	160488.PP_0654	GO Process	GO:0043436	Oxoacid metabolic process
+mdh	160488.PP_0654	GO Process	GO:0044237	Cellular metabolic process
+mdh	160488.PP_0654	GO Process	GO:0044238	Primary metabolic process
+mdh	160488.PP_0654	GO Process	GO:0044281	Small molecule metabolic process
+mdh	160488.PP_0654	GO Process	GO:0045333	Cellular respiration
+mdh	160488.PP_0654	GO Process	GO:0071704	Organic substance metabolic process
+mdh	160488.PP_0654	GO Function	GO:0003824	Catalytic activity
+mdh	160488.PP_0654	GO Function	GO:0016491	Oxidoreductase activity
+mdh	160488.PP_0654	GO Function	GO:0016614	Oxidoreductase activity, acting on CH-OH group of donors
+mdh	160488.PP_0654	GO Function	GO:0016615	Malate dehydrogenase activity
+mdh	160488.PP_0654	GO Function	GO:0016616	Oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+mdh	160488.PP_0654	GO Function	GO:0030060	L-malate dehydrogenase activity
+mdh	160488.PP_0654	GO Component	GO:0005622	Intracellular anatomical structure
+mdh	160488.PP_0654	GO Component	GO:0005737	Cytoplasm
+mdh	160488.PP_0654	GO Component	GO:0110165	Cellular anatomical entity
+mdh	160488.PP_0654	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+mdh	160488.PP_0654	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+mdh	160488.PP_0654	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+mdh	160488.PP_0654	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+mdh	160488.PP_0654	STRING clusters	CL:1804	Tricarboxylic acid cycle, and Valine, leucine and isoleucine biosynthesis
+mdh	160488.PP_0654	STRING clusters	CL:1805	Tricarboxylic acid cycle, and Methane metabolism
+mdh	160488.PP_0654	STRING clusters	CL:1843	Mixed, incl. Malate dehydrogenase activity, and Fumarate hydratase activity
+mdh	160488.PP_0654	STRING clusters	CL:1862	Fumarate hydratase activity, and Malate dehydrogenase activity
+mdh	160488.PP_0654	KEGG	ppu00020	Citrate cycle (TCA cycle)
+mdh	160488.PP_0654	KEGG	ppu00270	Cysteine and methionine metabolism
+mdh	160488.PP_0654	KEGG	ppu00620	Pyruvate metabolism
+mdh	160488.PP_0654	KEGG	ppu00630	Glyoxylate and dicarboxylate metabolism
+mdh	160488.PP_0654	KEGG	ppu00680	Methane metabolism
+mdh	160488.PP_0654	KEGG	ppu01100	Metabolic pathways
+mdh	160488.PP_0654	KEGG	ppu01110	Biosynthesis of secondary metabolites
+mdh	160488.PP_0654	KEGG	ppu01120	Microbial metabolism in diverse environments
+mdh	160488.PP_0654	KEGG	ppu01200	Carbon metabolism
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0005622	Intracellular
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0005737	Cytoplasm
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0005829	Cytosol
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0016020	Membrane
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0019898	Extrinsic component of membrane
+mdh	160488.PP_0654	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+mdh	160488.PP_0654	UniProt Keywords	KW-0520	NAD
+mdh	160488.PP_0654	UniProt Keywords	KW-0560	Oxidoreductase
+mdh	160488.PP_0654	UniProt Keywords	KW-0816	Tricarboxylic acid cycle
+mdh	160488.PP_0654	Pfam	PF00056	Lactate/malate dehydrogenase, NAD binding domain
+mdh	160488.PP_0654	Pfam	PF02866	Lactate/malate dehydrogenase, alpha/beta C-terminal domain
+mdh	160488.PP_0654	InterPro	IPR001236	Lactate/malate dehydrogenase, N-terminal
+mdh	160488.PP_0654	InterPro	IPR001557	L-lactate/malate dehydrogenase
+mdh	160488.PP_0654	InterPro	IPR011275	Malate dehydrogenase, type 3
+mdh	160488.PP_0654	InterPro	IPR015955	Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal
+mdh	160488.PP_0654	InterPro	IPR022383	Lactate/malate dehydrogenase, C-terminal
+mdh	160488.PP_0654	InterPro	IPR036291	NAD(P)-binding domain superfamily
+sucA	160488.PP_4189	GO Process	GO:0006091	Generation of precursor metabolites and energy
+sucA	160488.PP_4189	GO Process	GO:0006099	Tricarboxylic acid cycle
+sucA	160488.PP_4189	GO Process	GO:0008152	Metabolic process
+sucA	160488.PP_4189	GO Process	GO:0009060	Aerobic respiration
+sucA	160488.PP_4189	GO Process	GO:0009987	Cellular process
+sucA	160488.PP_4189	GO Process	GO:0015980	Energy derivation by oxidation of organic compounds
+sucA	160488.PP_4189	GO Process	GO:0044237	Cellular metabolic process
+sucA	160488.PP_4189	GO Process	GO:0044238	Primary metabolic process
+sucA	160488.PP_4189	GO Process	GO:0045333	Cellular respiration
+sucA	160488.PP_4189	GO Function	GO:0003824	Catalytic activity
+sucA	160488.PP_4189	GO Function	GO:0004591	Oxoglutarate dehydrogenase (succinyl-transferring) activity
+sucA	160488.PP_4189	GO Function	GO:0005488	Binding
+sucA	160488.PP_4189	GO Function	GO:0016491	Oxidoreductase activity
+sucA	160488.PP_4189	GO Function	GO:0016624	Oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+sucA	160488.PP_4189	GO Function	GO:0016903	Oxidoreductase activity, acting on the aldehyde or oxo group of donors
+sucA	160488.PP_4189	GO Function	GO:0019842	Vitamin binding
+sucA	160488.PP_4189	GO Function	GO:0030976	Thiamine pyrophosphate binding
+sucA	160488.PP_4189	GO Function	GO:0036094	Small molecule binding
+sucA	160488.PP_4189	GO Function	GO:0043167	Ion binding
+sucA	160488.PP_4189	GO Function	GO:0043168	Anion binding
+sucA	160488.PP_4189	GO Function	GO:0043169	Cation binding
+sucA	160488.PP_4189	GO Function	GO:0050997	Quaternary ammonium group binding
+sucA	160488.PP_4189	GO Function	GO:0097159	Organic cyclic compound binding
+sucA	160488.PP_4189	GO Function	GO:1901363	Heterocyclic compound binding
+sucA	160488.PP_4189	GO Function	GO:1901681	Sulfur compound binding
+sucA	160488.PP_4189	GO Component	GO:0005622	Intracellular anatomical structure
+sucA	160488.PP_4189	GO Component	GO:0005737	Cytoplasm
+sucA	160488.PP_4189	GO Component	GO:0005829	Cytosol
+sucA	160488.PP_4189	GO Component	GO:0032991	Protein-containing complex
+sucA	160488.PP_4189	GO Component	GO:0045239	Tricarboxylic acid cycle enzyme complex
+sucA	160488.PP_4189	GO Component	GO:0045240	Dihydrolipoyl dehydrogenase complex
+sucA	160488.PP_4189	GO Component	GO:0045252	Oxoglutarate dehydrogenase complex
+sucA	160488.PP_4189	GO Component	GO:0110165	Cellular anatomical entity
+sucA	160488.PP_4189	GO Component	GO:1902494	Catalytic complex
+sucA	160488.PP_4189	GO Component	GO:1990204	Oxidoreductase complex
+sucA	160488.PP_4189	GO Component	GO:1990234	Transferase complex
+sucA	160488.PP_4189	STRING clusters	CL:1800	Mixed, incl. Carbon metabolism, and Branched-chain amino acid metabolic process
+sucA	160488.PP_4189	STRING clusters	CL:1801	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+sucA	160488.PP_4189	STRING clusters	CL:1802	Carbon metabolism, and Valine, leucine and isoleucine biosynthesis
+sucA	160488.PP_4189	STRING clusters	CL:1803	Mixed, incl. Citrate cycle (TCA cycle), and Valine, leucine and isoleucine biosynthesis
+sucA	160488.PP_4189	STRING clusters	CL:1913	Mixed, incl. Thiamin diphosphate-binding fold, and 2-oxo acid dehydrogenase, lipoyl-binding site
+sucA	160488.PP_4189	STRING clusters	CL:1916	Mixed, incl. e3 binding domain, and Dehydrogenase E1 component
+sucA	160488.PP_4189	KEGG	ppu00020	Citrate cycle (TCA cycle)
+sucA	160488.PP_4189	KEGG	ppu01100	Metabolic pathways
+sucA	160488.PP_4189	KEGG	ppu01110	Biosynthesis of secondary metabolites
+sucA	160488.PP_4189	KEGG	ppu01120	Microbial metabolism in diverse environments
+sucA	160488.PP_4189	KEGG	ppu01200	Carbon metabolism
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0005622	Intracellular
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0005737	Cytoplasm
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0045239	Tricarboxylic acid cycle enzyme complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0045240	Dihydrolipoyl dehydrogenase complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0045252	Oxoglutarate dehydrogenase complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:1902494	Catalytic complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+sucA	160488.PP_4189	COMPARTMENTS	GOCC:1990234	Transferase complex
+sucA	160488.PP_4189	UniProt Keywords	KW-0175	Coiled coil
+sucA	160488.PP_4189	UniProt Keywords	KW-0560	Oxidoreductase
+sucA	160488.PP_4189	Pfam	PF00676	Dehydrogenase E1 component
+sucA	160488.PP_4189	Pfam	PF16078	2-oxoglutarate dehydrogenase N-terminus
+sucA	160488.PP_4189	Pfam	PF16870	2-oxoglutarate dehydrogenase C-terminal
+sucA	160488.PP_4189	InterPro	IPR001017	Dehydrogenase, E1 component
+sucA	160488.PP_4189	InterPro	IPR005475	Transketolase-like, pyrimidine-binding domain
+sucA	160488.PP_4189	InterPro	IPR011603	2-oxoglutarate dehydrogenase E1 component
+sucA	160488.PP_4189	InterPro	IPR029061	Thiamin diphosphate-binding fold
+sucA	160488.PP_4189	InterPro	IPR031717	Multifunctional 2-oxoglutarate metabolism enzyme, C-terminal
+sucA	160488.PP_4189	InterPro	IPR032106	2-oxoglutarate dehydrogenase E1 component, N-terminal domain
+sucA	160488.PP_4189	InterPro	IPR042179	Multifunctional 2-oxoglutarate metabolism enzyme, C-terminal domain superfamily
+sucA	160488.PP_4189	SMART	SM00861	Transketolase, pyrimidine binding domain
