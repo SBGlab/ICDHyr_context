@@ -38,7 +38,7 @@ conda env create -f environment.yml
   conda install -c conda-forge cobra optlang -y
   pip install escher cameo reframed
 
-2) Using pip into an existing environment:
+3) Using pip into an existing environment:
   python -m pip install --upgrade pip
   pip install numpy pandas scipy plotly scikit-learn jupyterlab cobra reframed
 
