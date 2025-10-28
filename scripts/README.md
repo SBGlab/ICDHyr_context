@@ -10,24 +10,15 @@ Common Python packages used by the scripts and notebooks (install via pip or con
 - numpy
 - pandas
 - scipy
-- matplotlib
-- seaborn
+- plotly
 - scikit-learn
 - jupyterlab or notebook
 - cobra (COBRApy)    # for constraint-based metabolic modeling
-- optlang             # solver interface used by COBRApy
-- python-libsbml or libsbml (if SBML files are parsed)
-- tqdm                # progress bars
-- networkx            # network analysis / graph utilities
 
 Optional / domain-specific tools (install if needed):
 - escher              # pathway visualization
 - cameo               # strain design and flux analysis helpers
 - gurobi or cplex     # commercial solvers (if used); otherwise use glpk or scip via optlang
-
-R (optional):
-- R >= 4.0
-- tidyverse, ggplot2, data.table (if any R scripts are present)
 
 Installation examples
 
@@ -38,13 +29,13 @@ Installation examples
   conda activate icdhyr
 
 - Install common packages via conda and pip (example):
-  conda install -c conda-forge numpy pandas scipy matplotlib seaborn scikit-learn jupyterlab networkx tqdm -y
+  conda install -c conda-forge numpy pandas scipy plotly scikit-learn jupyterlab -y
   conda install -c conda-forge cobra optlang -y
-  pip install escher python-libsbml cameo
+  pip install escher cameo
 
 2) Using pip into an existing environment:
   python -m pip install --upgrade pip
-  pip install numpy pandas scipy matplotlib seaborn scikit-learn jupyterlab cobra optlang python-libsbml tqdm networkx
+  pip install numpy pandas scipy plotly scikit-learn jupyterlab cobra
 
 Notes on solvers
 
