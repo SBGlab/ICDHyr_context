@@ -13,6 +13,7 @@ Common Python packages used by the scripts and notebooks (install via pip or con
 - plotly
 - scikit-learn
 - jupyterlab or notebook
+- reframed
 - cobra (COBRApy)    # for constraint-based metabolic modeling
 
 Optional / domain-specific tools (install if needed):
@@ -21,8 +22,12 @@ Optional / domain-specific tools (install if needed):
 - gurobi or cplex     # commercial solvers (if used); otherwise use glpk or scip via optlang
 
 Installation examples
+1) Directly from the provided "environment.yml" file vía (recommended):
+```bash
+conda env create -f environment.yml
+```
 
-1) Using conda (recommended):
+2) Using conda:
 
 - Create a new environment:
   conda create -n icdhyr python=3.10 -y
@@ -31,11 +36,11 @@ Installation examples
 - Install common packages via conda and pip (example):
   conda install -c conda-forge numpy pandas scipy plotly scikit-learn jupyterlab -y
   conda install -c conda-forge cobra optlang -y
-  pip install escher cameo
+  pip install escher cameo reframed
 
 2) Using pip into an existing environment:
   python -m pip install --upgrade pip
-  pip install numpy pandas scipy plotly scikit-learn jupyterlab cobra
+  pip install numpy pandas scipy plotly scikit-learn jupyterlab cobra reframed
 
 Notes on solvers
 
@@ -48,7 +53,7 @@ Running analyses
 
 Reproducibility tips
 
-- Check each script or notebook header for a list of required packages and exact versions. If a requirements.txt or environment.yml is provided in this repository (or will be added), prefer using that to reproduce the exact environment.
+- Generate a specific conda environment environment from the provided file "environment.yml".
 - If analyses are computationally heavy, intermediate files may be included in data/ or results/.
 
 Contact
