@@ -4,7 +4,7 @@ This repository contains the analysis, data, and code supporting the paper "Func
 
 Repository contents (high level):
 
-- data/: exrpession datasets used for the analyses.
+- data/: expression datasets used for the analyses.
 - models/: used and generated GEMs
 - scripts/: instructions and tips for reproducing the code.
 - results/: outputs from flux sampling and STRING analyses.
