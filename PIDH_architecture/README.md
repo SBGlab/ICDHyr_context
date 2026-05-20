@@ -10,12 +10,11 @@ This pipeline performs large-scale classification of prokaryotic isocitrate dehy
 
 * **Monomeric**
 * **Dimeric**
-* **Other**
+* **Both**
 
 It integrates:
 
 * HMMER (monomeric + dimeric IDH profiles)
-* Pfam domain validation
 * genome-aware parsing
 * per-genome percentage summarization
 * scalable execution for ~40,000 genomes
@@ -155,23 +154,7 @@ genome.dimer.tbl
 
 ---
 
-## 6. Pfam validation
-
-```bash
-hmmscan Pfam-A.hmm
-```
-
-Ensures IDH domain presence:
-
-```
-PF00180
-```
-
-Filters false positives and domain fusions.
-
----
-
-## 7. Classification (Python)
+## 6. Classification (Python)
 
 Combines:
 
@@ -187,7 +170,6 @@ Combines:
 
   * monomeric ≥ 650 aa
   * dimeric 350–550 aa
-* must contain PF00180 domain
 
 ---
 
@@ -229,7 +211,6 @@ Designed for:
 ## ✔ Biological validation layers
 
 * HMM competition (monomer vs dimer)
-* Pfam domain confirmation
 * length constraints
 
 ---
