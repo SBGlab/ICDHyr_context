@@ -1,7 +1,3 @@
-Here is a **clean README-style summary** of the **final synchronized Nextflow + HMM + Pfam pipeline** you built.
-
----
-
 # 🧬 IDH Architecture Classification Pipeline (Nextflow DSL2)
 
 ## Overview
