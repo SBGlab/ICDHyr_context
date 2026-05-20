@@ -1,0 +1,134 @@
+DATASET_MULTIBAR
+SEPARATOR TAB
+DATASET_LABEL	Architecture composition (Class level)
+COLOR	#ff0000
+
+FIELD_LABELS	both	dimeric	monomeric
+FIELD_COLORS	#4daf4a	#377eb8	#e41a1c
+
+WIDTH	50
+HEIGHT	10
+MARGIN	1
+
+DATA
+Abditibacteriia	0.0	1.0	0.0
+Acidimicrobiia	0.0	0.6363636363636364	0.36363636363636365
+Acidithiobacillia	0.0	1.0	0.0
+Actinomycetes	0.1108529250956807	0.3138326954620011	0.5753143794423182
+Alphaproteobacteria	0.20101317122593718	0.7444782168186423	0.05450861195542046
+Anaerolineae	0.0	1.0	0.0
+Aquificia	0.0	0.4166666666666667	0.5833333333333334
+Archaeoglobi	0.0	1.0	0.0
+Ardenticatenia	0.0	1.0	0.0
+Armatimonadia	0.0	1.0	0.0
+Atribacteria	0.0	1.0	0.0
+Bacilli	0.008888888888888889	0.9906666666666667	0.00044444444444444447
+Bacteriovoracia	0.14285714285714285	0.2857142857142857	0.5714285714285714
+Bacteroidia	0.011278195488721804	0.868421052631579	0.12030075187969924
+Balneolia	0.4027777777777778	0.5972222222222222	0.0
+Bdellovibrionia	0.0	1.0	0.0
+Betaproteobacteria	0.708750403616403	0.2247336131740394	0.06651598320955764
+Blastocatellia	0.0	1.0	0.0
+Caldilineae	0.0	1.0	0.0
+Calditrichia	0.0	1.0	0.0
+Candidatius Mariprofundia	0.7272727272727273	0.18181818181818182	0.09090909090909091
+Candidatus Bipolaricaulia	0.0	1.0	0.0
+Candidatus Brocadiia	0.0	0.6	0.4
+Candidatus Methylomirabilia	0.0	1.0	0.0
+Candidatus Micrarchaeia	0.0	1.0	0.0
+Chitinispirillia	0.0	1.0	0.0
+Chitinivibrionia	0.0	1.0	0.0
+Chitinophagia	0.01020408163265306	0.9846938775510204	0.00510204081632653
+Chlamydiia	0.0	1.0	0.0
+Chlorobiia	0.0	0.0	1.0
+Chloroflexia	0.0	1.0	0.0
+Chrysiogenia	0.0	0.0	1.0
+Chthonomonadia	0.0	1.0	0.0
+Clostridia	0.0018433179723502304	0.9981566820276497	0.0
+Conexivisphaeria	0.0	1.0	0.0
+Coriobacteriia	0.0	1.0	0.0
+Cyanophyceae	0.008097165991902834	0.9554655870445344	0.03643724696356275
+Cytophagia	0.3844660194174757	0.5825242718446602	0.03300970873786408
+Deferribacteres	0.0	0.14285714285714285	0.8571428571428571
+Deferrisomatia	0.0	1.0	0.0
+Dehalococcoidia	0.0	0.8888888888888888	0.1111111111111111
+Deinococci	0.0	1.0	0.0
+Deltaproteobacteria	0.47619047619047616	0.42857142857142855	0.09523809523809523
+Desulfarculia	0.0	1.0	0.0
+Desulfobacteria	0.0	0.7058823529411765	0.29411764705882354
+Desulfobulbia	0.0	0.8095238095238095	0.19047619047619047
+Desulfovibrionia	0.0	0.9494949494949495	0.050505050505050504
+Desulfurellia	0.0	0.0	1.0
+Desulfuribacillia	0.0	1.0	0.0
+Desulfuromonadia	0.1206896551724138	0.08620689655172414	0.7931034482758621
+Dethiobacteria	0.0	1.0	0.0
+Dictyoglomia	0.0	1.0	0.0
+Dissulfuribacteria	0.0	1.0	0.0
+Endomicrobiia	0.0	1.0	0.0
+Epsilonproteobacteria	0.020242914979757085	0.1214574898785425	0.8582995951417004
+Erysipelotrichia	0.0	1.0	0.0
+Fervidibacteria	0.0	1.0	0.0
+Fibrobacteria	0.0	0.0	1.0
+Fimbriimonadia	0.0	1.0	0.0
+Flavobacteriia	0.20880428316478286	0.0511600237953599	0.7400356930398573
+Fusobacteriia	0.0	1.0	0.0
+Gammaproteobacteria	0.6053231939163498	0.2606844106463878	0.13399239543726235
+Gemmatimonadia	0.0	1.0	0.0
+Halobacteria	0.016304347826086956	0.9836956521739131	0.0
+Holophagae	0.7941176470588235	0.11764705882352941	0.08823529411764706
+Hydrogenophilia	0.0	1.0	0.0
+Ignavibacteria	0.0	1.0	0.0
+Kiritimatiellia	0.9230769230769231	0.07692307692307693	0.0
+Ktedonobacteria	0.0	1.0	0.0
+Lentisphaeria	0.0	0.0	1.0
+Leptospiria	0.0	0.9883720930232558	0.011627906976744186
+Limnochordia	0.0	1.0	0.0
+Longimicrobiia	1.0	0.0	0.0
+Magnetococcia	0.0	0.0	1.0
+Methanobacteria	0.0	1.0	0.0
+Methanococci	0.0	1.0	0.0
+Methanomicrobia	0.0	0.15	0.85
+Methanonatronarchaeia	0.0	1.0	0.0
+Methanopyri	0.0	1.0	0.0
+Methylacidiphilae	0.0	1.0	0.0
+Mollicutes	0.0	1.0	0.0
+Myxococcia	0.15748031496062992	0.84251968503937	0.0
+Negativicutes	0.0	1.0	0.0
+Nitriliruptoria	0.0	0.2222222222222222	0.7777777777777778
+Nitrososphaeria	0.0	1.0	0.0
+Nitrospinia	0.0	0.0	1.0
+Nitrospiria	0.56	0.16	0.28
+Oligoflexia	0.2222222222222222	0.7777777777777778	0.0
+Oligosphaeria	0.0	1.0	0.0
+Opitutia	0.04878048780487805	0.12195121951219512	0.8292682926829268
+Phycisphaerae	0.11764705882352941	0.6470588235294118	0.23529411764705882
+Planctomycetia	0.0	0.7421383647798742	0.2578616352201258
+Rhodothermia	0.0	1.0	0.0
+Rubrobacteria	0.0	1.0	0.0
+Saprospiria	0.058823529411764705	0.8235294117647058	0.11764705882352941
+Spartobacteria	0.0	1.0	0.0
+Sphingobacteriia	0.3532934131736527	0.4231536926147705	0.22355289421157684
+Spirochaetia	0.03773584905660377	0.8867924528301887	0.07547169811320754
+Synergistia	0.0	1.0	0.0
+Syntrophia	0.0	1.0	0.0
+Syntrophobacteria	0.0	1.0	0.0
+Tardisphaeria	0.0	1.0	0.0
+Tepidiformia	0.0	1.0	0.0
+Terriglobia	0.0673076923076923	0.9326923076923077	0.0
+Terrimicrobiia	0.0	1.0	0.0
+Thermoanaerobaculia	0.0	1.0	0.0
+Thermococci	0.0	1.0	0.0
+Thermodesulfobacteria	0.0	1.0	0.0
+Thermodesulfobiia	0.0	0.0	1.0
+Thermodesulfovibrionia	0.0	1.0	0.0
+Thermoflexia	0.0	1.0	0.0
+Thermoleophilia	0.0	0.41379310344827586	0.5862068965517241
+Thermomicrobia	0.0	1.0	0.0
+Thermoplasmata	0.0	1.0	0.0
+Thermoprotei	0.0	1.0	0.0
+Thermosulfidibacteria	0.0	0.0	1.0
+Thermotogae	0.0	1.0	0.0
+Tichowtungiia	0.0	0.0	1.0
+Tissierellia	0.0	1.0	0.0
+Verrucomicrobiia	0.0	0.3148148148148148	0.6851851851851852
+Vicinamibacteria	0.0	1.0	0.0

@@ -1,0 +1,134 @@
+DATASET_MULTIBAR
+SEPARATOR TAB
+DATASET_LABEL	Kingdom composition (Class level)
+COLOR	#0000ff
+
+FIELD_LABELS	Bacillati	Fusobacteriati	Methanobacteriati	Nanobdellati	Pseudomonadati	Thermoproteati	Thermotogati	unknown
+FIELD_COLORS	#636EFA	#EF553B	#00CC96	#AB63FA	#FFA15A	#19D3F3	#FF6692	#B6E880
+
+WIDTH	50
+HEIGHT	10
+MARGIN	1
+
+DATA
+Abditibacteriia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Acidimicrobiia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Acidithiobacillia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Actinomycetes	0.9960360852925095	0.0	0.0	0.0	0.0	0.0	0.0	0.0039639147074904315
+Alphaproteobacteria	0.0	0.0	0.0	0.0	0.9977710233029382	0.0	0.0	0.0022289766970618034
+Anaerolineae	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Aquificia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Archaeoglobi	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Ardenticatenia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Armatimonadia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Atribacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Bacilli	0.9955555555555555	0.0	0.0	0.0	0.0	0.0	0.0	0.0044444444444444444
+Bacteriovoracia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Bacteroidia	0.0	0.0	0.0	0.0	0.9887218045112782	0.0	0.0	0.011278195488721804
+Balneolia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Bdellovibrionia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Betaproteobacteria	0.0	0.0	0.0	0.0	0.9967710687762351	0.0	0.0	0.0032289312237649337
+Blastocatellia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Caldilineae	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Calditrichia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Candidatius Mariprofundia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Candidatus Bipolaricaulia	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Candidatus Brocadiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Candidatus Methylomirabilia	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Candidatus Micrarchaeia	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Chitinispirillia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chitinivibrionia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chitinophagia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chlamydiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chlorobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chloroflexia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Chrysiogenia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Chthonomonadia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Clostridia	0.9981566820276497	0.0	0.0	0.0	0.0	0.0	0.0	0.0018433179723502304
+Conexivisphaeria	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Coriobacteriia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Cyanophyceae	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Cytophagia	0.0	0.0	0.0	0.0	0.9912621359223301	0.0	0.0	0.008737864077669903
+Deferribacteres	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Deferrisomatia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Dehalococcoidia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Deinococci	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Deltaproteobacteria	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Desulfarculia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Desulfobacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Desulfobulbia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Desulfovibrionia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Desulfurellia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Desulfuribacillia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Desulfuromonadia	0.0	0.0	0.0	0.0	0.9482758620689655	0.0	0.0	0.05172413793103448
+Dethiobacteria	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Dictyoglomia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Dissulfuribacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Endomicrobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Epsilonproteobacteria	0.0	0.0	0.0	0.0	0.9959514170040485	0.0	0.0	0.004048582995951417
+Erysipelotrichia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Fervidibacteria	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Fibrobacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Fimbriimonadia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Flavobacteriia	0.0	0.0	0.0	0.0	0.9964306960142773	0.0	0.0	0.003569303985722784
+Fusobacteriia	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Gammaproteobacteria	0.0	0.0	0.0	0.0	0.9945247148288974	0.0	0.0	0.005475285171102661
+Gemmatimonadia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Halobacteria	0.0	0.0	0.9836956521739131	0.0	0.0	0.0	0.0	0.016304347826086956
+Holophagae	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Hydrogenophilia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Ignavibacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Kiritimatiellia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Ktedonobacteria	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Lentisphaeria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Leptospiria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Limnochordia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Longimicrobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Magnetococcia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Methanobacteria	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Methanococci	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Methanomicrobia	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Methanonatronarchaeia	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Methanopyri	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Methylacidiphilae	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Mollicutes	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Myxococcia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Negativicutes	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nitriliruptoria	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nitrososphaeria	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Nitrospinia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Nitrospiria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Oligoflexia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Oligosphaeria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Opitutia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Phycisphaerae	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Planctomycetia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Rhodothermia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Rubrobacteria	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Saprospiria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Spartobacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Sphingobacteriia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Spirochaetia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Synergistia	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Syntrophia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Syntrophobacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Tardisphaeria	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Tepidiformia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Terriglobia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Terrimicrobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermoanaerobaculia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermococci	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Thermodesulfobacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermodesulfobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermodesulfovibrionia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermoflexia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Thermoleophilia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Thermomicrobia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermoplasmata	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Thermoprotei	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Thermosulfidibacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Thermotogae	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Tichowtungiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Tissierellia	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Verrucomicrobiia	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Vicinamibacteria	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0
