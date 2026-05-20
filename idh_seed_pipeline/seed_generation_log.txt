@@ -1,0 +1,361 @@
+=== Step 1: Downloading UniProt sequences ===
+Downloading: raw/dimeric_raw.fasta
+Downloading: raw/monomeric_raw.fasta
+=== Step 2: Length filtering ===
+[WARN] you may switch on flag -g/--remove-gaps to remove spaces
+[WARN] you may switch on flag -g/--remove-gaps to remove spaces
+=== Step 3: Clustering (CD-HIT) ===
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32
+Command: cd-hit -i filtered/dimeric.fasta -o
+         clustered/dimeric_nr.fasta -c 0.9 -n 5 -T 8
+
+Started: Wed Apr 15 17:28:45 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 16421
+longest and shortest : 547 and 350
+Total letters: 6863992
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 9M
+Buffer          : 8 X 16M = 130M
+Table           : 2 X 65M = 131M
+Miscellaneous   : 0M
+Total           : 271M
+
+Table limit with the given memory limit:
+Max number of representatives: 1024067
+Max number of word counting entries: 66122448
+
+# comparing sequences from          0  to       1642
+.---------- new table with      838 representatives
+# comparing sequences from       1642  to       3119
+----------   1096 remaining sequences to the next cycle
+---------- new table with      131 representatives
+# comparing sequences from       2023  to       3462
+----------    614 remaining sequences to the next cycle
+---------- new table with      202 representatives
+# comparing sequences from       2848  to       4205
+----------    450 remaining sequences to the next cycle
+---------- new table with      178 representatives
+# comparing sequences from       3755  to       5021
+----------    264 remaining sequences to the next cycle
+---------- new table with      283 representatives
+# comparing sequences from       4757  to       5923
+99.9%---------- new table with      192 representatives
+# comparing sequences from       5923  to       6972
+100.0%---------- new table with      152 representatives
+# comparing sequences from       6972  to       7916
+100.0%---------- new table with       90 representatives
+# comparing sequences from       7916  to       8766
+99.9%---------- new table with      106 representatives
+# comparing sequences from       8766  to       9531
+----------    450 remaining sequences to the next cycle
+---------- new table with      123 representatives
+# comparing sequences from       9081  to       9815
+----------    405 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from       9410  to      10111
+----------    133 remaining sequences to the next cycle
+---------- new table with      194 representatives
+# comparing sequences from       9978  to      10622
+..........    10000  finished       2604  clusters
+100.0%---------- new table with      157 representatives
+# comparing sequences from      10622  to      11201
+100.0%---------- new table with      120 representatives
+# comparing sequences from      11201  to      11723
+99.8%---------- new table with      121 representatives
+# comparing sequences from      11723  to      12192
+99.9%---------- new table with       74 representatives
+# comparing sequences from      12192  to      12614
+----------     17 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from      12597  to      12979
+100.0%---------- new table with       77 representatives
+# comparing sequences from      12979  to      13323
+99.9%---------- new table with       67 representatives
+# comparing sequences from      13323  to      13632
+99.9%---------- new table with       30 representatives
+# comparing sequences from      13632  to      13910
+100.0%---------- new table with       26 representatives
+# comparing sequences from      13910  to      14161
+........---------- new table with       71 representatives
+# comparing sequences from      14161  to      14387
+99.9%---------- new table with       55 representatives
+# comparing sequences from      14387  to      14590
+99.9%---------- new table with       30 representatives
+# comparing sequences from      14590  to      14773
+99.9%---------- new table with       27 representatives
+# comparing sequences from      14773  to      14937
+.............---------- new table with       79 representatives
+# comparing sequences from      14937  to      15085
+97.8%---------- new table with       60 representatives
+# comparing sequences from      15085  to      15218
+.............---------- new table with       52 representatives
+# comparing sequences from      15218  to      15338
+...........---------- new table with       34 representatives
+# comparing sequences from      15338  to      15446
+99.9%---------- new table with       19 representatives
+# comparing sequences from      15446  to      16421
+..................---------- new table with      397 representatives
+
+    16421  finished       4185  clusters
+
+Approximated maximum memory consumption: 274M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 15.35
+================================================================
+Program: CD-HIT, V4.8.1 (+OpenMP), Apr 24 2025, 22:00:32
+Command: cd-hit -i filtered/monomeric.fasta -o
+         clustered/monomeric_nr.fasta -c 0.9 -n 5 -T 8
+
+Started: Wed Apr 15 17:28:48 2026
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 9150
+longest and shortest : 949 and 653
+Total letters: 6801231
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 8M
+Buffer          : 8 X 16M = 130M
+Table           : 2 X 65M = 130M
+Miscellaneous   : 0M
+Total           : 269M
+
+Table limit with the given memory limit:
+Max number of representatives: 629905
+Max number of word counting entries: 66293625
+
+# comparing sequences from          0  to        915
+---------- new table with      473 representatives
+# comparing sequences from        915  to       1738
+----------    214 remaining sequences to the next cycle
+---------- new table with      193 representatives
+# comparing sequences from       1524  to       2286
+----------    157 remaining sequences to the next cycle
+---------- new table with      179 representatives
+# comparing sequences from       2129  to       2831
+99.8%---------- new table with      219 representatives
+# comparing sequences from       2831  to       3462
+----------     57 remaining sequences to the next cycle
+---------- new table with      216 representatives
+# comparing sequences from       3405  to       3979
+100.0%---------- new table with      179 representatives
+# comparing sequences from       3979  to       4496
+99.8%---------- new table with      153 representatives
+# comparing sequences from       4496  to       4961
+99.9%---------- new table with       74 representatives
+# comparing sequences from       4961  to       5379
+----------     38 remaining sequences to the next cycle
+---------- new table with      144 representatives
+# comparing sequences from       5341  to       5721
+99.9%---------- new table with      168 representatives
+# comparing sequences from       5721  to       6063
+99.9%---------- new table with       91 representatives
+# comparing sequences from       6063  to       6371
+----------     58 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from       6313  to       6596
+99.9%---------- new table with       94 representatives
+# comparing sequences from       6596  to       6851
+99.9%---------- new table with       75 representatives
+# comparing sequences from       6851  to       7080
+99.9%---------- new table with       46 representatives
+# comparing sequences from       7080  to       7287
+99.9%---------- new table with       50 representatives
+# comparing sequences from       7287  to       7473
+100.0%---------- new table with       33 representatives
+# comparing sequences from       7473  to       7640
+99.9%---------- new table with       43 representatives
+# comparing sequences from       7640  to       7791
+99.9%---------- new table with       77 representatives
+# comparing sequences from       7791  to       7926
+99.8%---------- new table with       63 representatives
+# comparing sequences from       7926  to       8048
+...............---------- new table with       74 representatives
+# comparing sequences from       8048  to       8158
+100.0%---------- new table with       36 representatives
+# comparing sequences from       8158  to       9150
+.................---------- new table with      463 representatives
+
+     9150  finished       3243  clusters
+
+Approximated maximum memory consumption: 273M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 17.75
+=== Step 4: Alignment (MAFFT) ===
+nthread = 8
+nthreadpair = 8
+nthreadtb = 8
+ppenalty_ex = 0
+stacksize: 8192 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 65 ambiguous characters.
+ 4101 / 4185 (thread    1)
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+ 4180 / 4185
+done.
+
+Progressive alignment 1/2... 
+STEP  2301 / 4184 (thread    7) f
+Reallocating..done. *alloclen = 2103
+STEP  4101 / 4184 (thread    0) h
+Reallocating..done. *alloclen = 3252
+
+done.
+
+Making a distance matrix from msa.. 
+ 4100 / 4185 (thread    5)
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+ 4180 / 4185
+done.
+
+Progressive alignment 2/2... 
+STEP  3201 / 4184 (thread    2) f
+Reallocating..done. *alloclen = 2139
+STEP  4101 / 4184 (thread    2) f
+Reallocating..done. *alloclen = 3157
+
+done.
+
+disttbfast (aa) Version 7.526
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+8 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+nthread = 8
+nthreadpair = 8
+nthreadtb = 8
+ppenalty_ex = 0
+stacksize: 8192 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 44 ambiguous characters.
+ 3201 / 3243 (thread    1)
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+ 3240 / 3243
+done.
+
+Progressive alignment 1/2... 
+STEP  2801 / 3242 (thread    6) f
+Reallocating..done. *alloclen = 2944
+STEP  3201 / 3242 (thread    3) h
+done.
+
+Making a distance matrix from msa.. 
+ 3200 / 3243 (thread    5)
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+ 3240 / 3243
+done.
+
+Progressive alignment 2/2... 
+STEP  2601 / 3242 (thread    6) f
+Reallocating..done. *alloclen = 2948
+STEP  3201 / 3242 (thread    5) f
+Reallocating..done. *alloclen = 4042
+
+done.
+
+disttbfast (aa) Version 7.526
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+8 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+=== Step 5: HMM construction ===
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             aligned/dimeric.aln
+# output HMM file:                  hmm/idh_dimeric.hmm
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     dimeric               4185  2409   446     8.22  0.590 
+
+# CPU time: 1.01u 0.01s 00:00:01.02 Elapsed: 00:00:00.49
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             aligned/monomeric.aln
+# output HMM file:                  hmm/idh_monomeric.hmm
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     monomeric             3243  2301   817     3.72  0.590 
+
+# CPU time: 1.19u 0.03s 00:00:01.22 Elapsed: 00:00:00.59
+=== Step 6: Summary ===
+Dimeric sequences:
+file                    format  type     num_seqs    sum_len  min_len  avg_len  max_len
+filtered/dimeric.fasta  FASTA   Protein    16,421  6,863,992      350      418      547
+Monomeric sequences:
+file                      format  type     num_seqs    sum_len  min_len  avg_len  max_len
+filtered/monomeric.fasta  FASTA   Protein     9,150  6,801,231      653    743.3      949
+Clustered (non-redundant):
+file                        format  type     num_seqs    sum_len  min_len  avg_len  max_len
+clustered/dimeric_nr.fasta  FASTA   Protein     4,185  1,772,562      350    423.6      547
+file                          format  type     num_seqs    sum_len  min_len  avg_len  max_len
+clustered/monomeric_nr.fasta  FASTA   Protein     3,243  2,416,309      664    745.1      949
+HMMs generated in:
+  hmm/idh_dimeric.hmm
+  hmm/idh_monomeric.hmm
+=== DONE ===
