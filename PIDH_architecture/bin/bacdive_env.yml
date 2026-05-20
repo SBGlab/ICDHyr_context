@@ -1,0 +1,13 @@
+name: bacdive_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - biopython
+  - ete3
+  - pip
+  - pip:
+    - bacdive
